@@ -11,8 +11,8 @@ Este projeto tem o objetivo de facilitar a busca por empregos, oferecendo uma ma
 - **Possibilidade de Venda** 
 
 
-##Link da Apresentação no Youtube:##
+## Link da Apresentação no Youtube: ##
 https://youtu.be/b821DdKy2WM
 
-##Link da Lean Inception no Miro:##
+## Link da Lean Inception no Miro: ##
 https://miro.com/app/board/uXjVL3VNC0A=/?share_link_id=335599655175
